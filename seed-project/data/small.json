@@ -1,0 +1,35 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "shoe": null,
+      "hat": null
+    },
+    {
+      "id": "2",
+      "shoe": null,
+      "hat": null
+    }
+  ],
+  "shoes": [
+    {
+      "id": "1",
+      "color": "BLACK"
+    },
+    {
+      "id": "2",
+      "color": "RED"
+    }
+  ],
+  "hats": [
+    {
+      "id": "1",
+      "color": "BLUE"
+    },
+    {
+      "id": "2",
+      "color": "GREEN"
+    }
+  ],
+  "score": null
+}
